@@ -6,5 +6,5 @@ For the first assessment, you'll receive two repos with instructions and deliver
 
 You can expect a paragraph of feedback after we grade your assessment that day. Then we'll set aside about 15-20 minutes of time for each of you over the subsequent week to review. 
 
-Future assessments will follow a simliar format, but of course, the topics will be different. You can expect any of the topics we cover in class to be touched on in some way. The best way to prepare will be to consistently complete labs, re-read Readmes, and review your lecture notes.
+Future assessments will follow a similar format, but of course, the topics will be different. You can expect any of the topics we cover in class to be touched on in some way. The best way to prepare will be to consistently complete labs, re-read Readmes, and review your lecture notes.
 <p class='util--hide'>View <a href='https://learn.co/lessons/module-assessments'>Module Assessments</a> on Learn.co and start learning to code for free.</p>
