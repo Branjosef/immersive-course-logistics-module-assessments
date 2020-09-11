@@ -13,7 +13,7 @@ many-to-many relationships.
 For the first assessment, you'll receive a repo with instructions and
 deliverables. For example, one deliverable might be "Please implement the
 methods Pet.all and Pet.find_by_name". It's an open-book, totally Googleable
-assessment. As opposed to standard Learn labs, there will not be tests. Instead,
+assessment. As opposed to standard labs, there will not be tests. Instead,
 we will be reading, running, and grading your code based on how you fulfill the
 requirements and your use of coding best practices. We will give you
 constructive feedback based on your submission.
