@@ -33,4 +33,4 @@ be an amazing developer. By all means, get more practice in any areas where you
 know you need it, but don't cram for a code challenge, and definitely don't
 sacrifice keeping up with the labs to prepare for it.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/module-assessments'>Module Assessments</a> on Learn.co and start learning to code for free.</p>
+
